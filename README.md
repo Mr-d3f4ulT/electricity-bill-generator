@@ -48,15 +48,3 @@ This project demonstrates core **Object-Oriented Programming** concepts in Java 
 - Git installed
 - iText PDF JAR file (v2.1.7 recommended)
 
-### ▶️ Steps
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/electricity-bill-generator.git
-cd electricity-bill-generator
-
-# 2. Compile the project
-javac -cp ".;libs/itext-2.1.7.jar" *.java
-
-# 3. Run the application
-java -cp ".;libs/itext-2.1.7.jar" Main
